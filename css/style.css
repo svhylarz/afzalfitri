@@ -1,0 +1,71 @@
+a
+{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 150%;
+}
+
+header
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	background-color: darkslategrey;
+	padding: 10px 10px;
+	font-family: Libre Baskerville, serif;
+	font-size: 100%;
+	text-align: center;
+	color: whitesmoke;
+}
+
+footer
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	padding: 10px 20px;
+	font-family: Libre Baskerville, serif;
+	font-size: 150%;
+	text-align: center;
+}
+
+h1
+{
+	font-family: ;
+}
+
+th
+{
+	font-family: class="w3-large";
+}
+
+td
+{
+	font-family: class="w3-large";
+}
+header
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	background-color: darkslategrey;
+	padding: 10px 10px;
+	font-family: Libre Baskerville, serif;
+	font-size: 100%;
+	text-align: center;
+	color: whitesmoke;
+}
+
+h3
+{
+	font-family: Rubik, sans-serif;
+}
+
+h2
+{
+	font-family: Rubik, sans-serif;
+}
+
+p
+{
+	font-family: Rubik, sans-serif;
+}
